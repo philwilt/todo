@@ -1,0 +1,26 @@
+body {
+    background-color: #00c7ff;
+}
+h1 {
+    text-align: center;
+}
+ul {
+    list-style: none;
+    padding: 0;
+}
+li {
+    margin-bottom: 0.8em;
+    padding: 0.5em;
+    background-color: #c34;
+    text-align: center;
+    font-weight: bold;
+}
+#wrapper {
+    display: block;
+    width: 50%;
+    margin: 1em auto;
+}
+#addToTodoList {
+    float: right;
+    margin-top: .8em;
+}
